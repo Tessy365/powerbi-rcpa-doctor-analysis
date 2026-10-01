@@ -42,7 +42,7 @@ The raw JotForms survey dataset required extensive data cleaning and unpivoting 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── data/           # Raw Excel workbook (JOTFORMS.xlsx) containing RCPA records
